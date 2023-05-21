@@ -6,7 +6,7 @@ Ce projet de gestion de bibliothèque est composé d'une partie backend dévelop
 
 Le projet de gestion de bibliothèque offre les fonctionnalités suivantes :
 
-### Backend (Spring Boot)
+### Backend (Spring Boot) && Frontend (Vue.js)
 
 - Récupérer la liste complète des livres
 - Ajouter un livre à la bibliothèque
@@ -14,7 +14,7 @@ Le projet de gestion de bibliothèque offre les fonctionnalités suivantes :
 - Supprimer un livre de la bibliothèque
 - Rechercher des livres par titre et/ou auteur
 
-### Frontend (Vue.js)
+
 
 - Afficher la liste des livres de la bibliothèque
 - Ajouter un nouveau livre à la bibliothèque
